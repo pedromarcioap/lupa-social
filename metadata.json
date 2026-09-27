@@ -1,0 +1,8 @@
+{
+  "name": "Lupa Social - UPMM",
+  "description": "Uma plataforma avançada de inteligência social que transforma dados de famílias vulneráveis em insights acionáveis e pareceres psicossociais usando IA Generativa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
